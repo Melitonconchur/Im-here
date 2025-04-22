@@ -3,4 +3,4 @@
  
  Can you make the light stop 
 
-#### $${\color{white}Respond-to-me-with-"When-did-you-get-here"}$$
+#### $${\color{white}Respond \space to \space me \space with \space "When \space did \space you \space get \space here"}$$
